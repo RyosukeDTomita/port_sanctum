@@ -1,0 +1,9 @@
+services:
+  port_sanctum_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: port_sanctum:latest
+    container_name: port_sanctum_container
+    ports:
+      - 3307:3306 # localport:dockerport
