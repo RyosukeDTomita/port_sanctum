@@ -1,5 +1,9 @@
 SELECT CURRENT_USER();
-CREATE DATABASE mydb;
+CREATE DATABASE tcp;
 SHOW DATABASES;
-USE mydb;
-CREATE TABLE port_info(port INT, service VARCHAR(20), PRIMARY KEY (port));
+USE tcp;
+CREATE TABLE port_info(port INT, service VARCHAR(255), PRIMARY KEY (port));
+CREATE DATABASE udp;
+SHOW DATABASES;
+USE udp;
+CREATE TABLE port_info(port INT, service VARCHAR(255), PRIMARY KEY (port));

@@ -1,0 +1,197 @@
+port,service
+1,TCP Port Service Multiplexer (TCPMUX)
+5,Remote Job Entry
+7,Echo Protocol
+9,Discard Protocol
+11,Active Users
+13,Daytime Protocol
+17,Quote of the Day (QOTD)
+18,Message Send Protocol
+19,Character Generator Protocol (CHARGEN)
+20,File Transfer Protocol (FTP) data transfer
+21,File Transfer Protocol (FTP) control (command)
+22,Secure Shell (SSH)
+23,Telnet protocol
+25,Simple Mail Transfer Protocol (SMTP)
+37,Time Protocol
+42,Host Name Server Protocol
+43,WHOIS protocol
+49,TACACS Login Host protocol
+53,Domain Name System (DNS)
+67,Bootstrap Protocol (BOOTP) server
+68,Bootstrap Protocol (BOOTP) client
+69,Trivial File Transfer Protocol (TFTP)
+70,Gopher protocol
+71,NETRJS protocol
+72,NETRJS protocol
+73,NETRJS protocol
+74,NETRJS protocol
+79,Finger protocol
+80,Hypertext Transfer Protocol (HTTP)
+88,Kerberos
+95,SUPDUP
+101,NIC host name
+102,ISO Transport Service Access Point (TSAP) Class 0 protocol
+104,Digital Imaging and Communications in Medicine (DICOM)
+105,CCSO Nameserver
+107,Remote User Telnet Service (RTelnet)
+108,IBM Systems Network Architecture (SNA) gateway access server
+109,Post Office Protocol version 2 (POP2)
+110,Post Office Protocol version 3 (POP3)
+111,Open Network Computing Remote Procedure Call (ONC RPC)
+113,Ident
+115,Simple File Transfer Protocol
+117,UUCP Mapping Project (path service)
+119,Network News Transfer Protocol (NNTP)
+123,Network Time Protocol (NTP)
+135,DCE endpoint resolution
+137,NetBIOS Name Service
+138,NetBIOS Datagram Service
+139,NetBIOS Session Service
+143,Internet Message Access Protocol (IMAP)
+161,Simple Network Management Protocol (SNMP)
+162,Simple Network Management Protocol Trap (SNMPTRAP)
+177,X Display Manager Control Protocol (XDMCP)
+179,Border Gateway Protocol (BGP)
+194,Internet Relay Chat (IRC)
+199,SNMP Unix Multiplexer (SMUX)
+201,AppleTalk Routing Maintenance
+209,Quick Mail Transfer Protocol
+210,ANSI Z39.50
+213,Internetwork Packet Exchange (IPX)
+218,Message posting protocol (MPP)
+220,Internet Message Access Protocol (IMAP) version 3
+259,Efficient Short Remote Operations (ESRO)
+262,Arcisdms
+264,Border Gateway Multicast Protocol (BGMP)
+280,http-mgmt
+308,Novastor Online Backup
+311,macOS Server Admin
+318,PKIX Time Stamp Protocol (TSP)
+319,Precision Time Protocol (PTP) event messages
+320,Precision Time Protocol (PTP) general messages
+323,Resource Public Key Infrastructure
+350,Mapping of Airline Traffic over Internet Protocol (MATIP) type A
+351,MATIP type B
+356,cloanto-net-1
+366,On-Demand Mail Relay (ODMR)
+369,Rpc2portmap
+370,codaauth2
+371,ClearCase albd
+376,Amiga Envoy Network Inquiry Protocol
+383,HP data alarm manager
+384,A Remote Network Server System
+387,AURP (AppleTalk Update-based Routing Protocol)
+388,Unidata LDM near real-time data distribution protocol
+389,Lightweight Directory Access Protocol (LDAP)
+399,Digital Equipment Corporation DECnet+ (Phase V) over TCP/IP
+401,Uninterruptible power supply (UPS)
+427,Service Location Protocol (SLP)
+433,NNTP part of Network News Transfer Protocol
+434,Mobile IP Agent
+443,Hypertext Transfer Protocol Secure (HTTPS)
+444,Simple Network Paging Protocol (SNPP)
+445,Microsoft-DS (Directory Services) Active Directory
+464,Kerberos Change/Set password
+465,Message Submission over TLS protocol
+475,tcpnethaspsrv
+497,Retrospect
+500,Internet Security Association and Key Management Protocol (ISAKMP) / Internet Key Exchange (IKE)
+502,Modbus Protocol
+504,Citadel
+510,FirstClass Protocol (FCP)
+512,Rexec
+513,rlogin
+514,Remote Shell
+515,Line Printer Daemon (LPD)
+517,Talk
+518,NTalk
+520,Routing Information Protocol (RIP)
+521,Routing Information Protocol Next Generation (RIPng)
+524,NetWare Core Protocol (NCP)
+525,Timed
+530,Remote procedure call (RPC)
+532,netnews
+533,netwall
+540,Unix-to-Unix Copy Protocol (UUCP)
+542,commerce
+543,klogin
+544,kshell
+546,DHCPv6 client
+547,DHCPv6 server
+548,Apple Filing Protocol (AFP) over TCP
+550,new-rwho
+554,Real Time Streaming Protocol (RTSP)
+556,Remotefs
+560,rmonitor
+561,monitor
+563,NNTP over TLS/SSL (NNTPS)
+587,Email Message Submission
+591,FileMaker 6.0 (and later) Web Sharing (HTTP Alternate)
+593,HTTP RPC Ep Map
+601,Reliable Syslog Service
+604,TUNNEL profile
+631,Internet Printing Protocol (IPP)
+636,Lightweight Directory Access Protocol over TLS/SSL (LDAPS)
+639,Multicast Source Discovery Protocol
+641,SupportSoft Nexus Remote Command (control/listening)
+643,SANity
+646,Label Distribution Protocol (LDP)
+647,DHCP Failover protocol
+648,Registry Registrar Protocol (RRP)
+651,IEEE-MMS
+653,SupportSoft Nexus Remote Command (data)
+654,Media Management System (MMS) Media Management Protocol (MMP)
+655,Tinc VPN daemon
+657,IBM RMC (Remote monitoring and Control) protocol
+660,macOS Server administration
+666,Doom
+674,Application Configuration Access Protocol (ACAP)
+684,CORBA IIOP SSL
+688,REALM-RUSD
+690,Velneo Application Transfer Protocol (VATP)
+691,MS Exchange Routing
+694,Linux-HA high-availability heartbeat
+695,IEEE Media Management System over SSL (IEEE-MMS-SSL)
+698,Optimized Link State Routing (OLSR)
+700,Extensible Provisioning Protocol (EPP)
+701,Link Management Protocol (LMP)
+702,IRIS over BEEP
+706,Secure Internet Live Conferencing (SILC)
+711,Cisco Tag Distribution Protocol
+712,Topology Broadcast based on Reverse-Path Forwarding routing protocol (TBRPF)
+749,Kerberos administration
+750,kerberos-iv
+753,Reverse Routing Header (RRH)
+754,tell send
+800,mdbs-daemon
+802,MODBUS/TCP Security
+829,Certificate Management Protocol
+830,NETCONF over SSH
+831,NETCONF over BEEP
+832,NETCONF for SOAP over HTTPS
+833,NETCONF for SOAP over BEEP
+853,DNS over TLS
+860,iSCSI
+861,OWAMP control
+862,TWAMP control
+873,rsync file synchronization protocol
+953,BIND remote name daemon control (RNDC)
+989,FTPS Protocol (data)
+990,FTPS Protocol (control)
+991,Netnews Administration System (NAS)
+992,Telnet protocol over TLS/SSL
+993,Internet Message Access Protocol over TLS/SSL (IMAPS)
+995,Post Office Protocol 3 over TLS/SSL (POP3S)
+1010,Unofficial ThinLinc web-based administration interface[123]
+1011,Reserved
+1012,Reserved
+1013,Reserved
+1014,Reserved
+1015,Reserved
+1016,Reserved
+1017,Reserved
+1018,Reserved
+1019,Reserved
+1020,Reserved
+1023,Reserved
